@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an assistant professor at Shanghai Jiao Tong University [Antai College of Economics and Management](https://acem.sjtu.edu.cn/). 
+Hi! I am an assistant professor at Shanghai Jiao Tong University [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/). 
 
-My research interests are Empirical Industrial Organization, Firm Dynamics and Trade. 
+**Fields:** Empirical Industrial Organization, Applied Microeconomics
 
-I received my Ph.D. in Economics from [Cornell University](http://economics.cornell.edu) under the supervision of [Julieta Caunedo](http://www.julietacaunedo.com/) (co-chair), [Panle Jia Barwick](https://barwick.economics.cornell.edu/) (co-chair), [Giulia Brancaccio](http://www.giulia-brancaccio.com/), and [Jörg Stoye](https://stoye.economics.cornell.edu/).
+**Applications:** Innovation and Industrial Policy, Digital Platforms, Real Estate Markets, Urban Labor Markets
+
+I received my Ph.D. in Economics from [Cornell University](http://economics.cornell.edu) under the supervision of [Julieta Caunedo](https://www.julietacaunedo.com/) (co-chair), [Panle Jia Barwick](https://panlebarwick.github.io/) (co-chair), [Giulia Brancaccio](http://www.giulia-brancaccio.com/), and [Jörg Stoye](https://stoye.economics.cornell.edu/).
