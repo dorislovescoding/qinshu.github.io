@@ -14,7 +14,7 @@ author_profile: true
 
 **[Zombies and the Effect on Innovation: Evidence from Development Zones in China](/files/Zombies in the Zone.pdf)** (with Jinyue Tang and [Shougui Luo](https://www.acem.sjtu.edu.cn/en/faculty/luoshougui.html))
 
-**Social Network and Product Characteristics Design in the Chinese Kids Smartwatch Market(/files/Kids_Watch_Paper_WX.pdf)** (with [Qi Wu](https://www.qiwuecon.com/))
+**[Social Network and Product Characteristics Design in the Chinese Kids Smartwatch Market](/files/Kids_Watch_Paper_WX.pdf)** (with [Qi Wu](https://www.qiwuecon.com/))
 
 ## Works in Progress
 
