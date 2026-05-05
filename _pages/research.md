@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-**[Upstream Market Power and the Price of Production Flexibility](/files/vertical_relation (5).pdf)** under review
+**[Upstream Market Power and the Price of Production Flexibility](/files/vertical_relation(5).pdf)** under review
 
 **[Exporting and Productivity Dynamics in the Chinese Footwear Industry](/files/Exporting and Productivity Dynamics in the Chinese Footwear Industry.pdf)** under review
 
