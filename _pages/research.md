@@ -10,7 +10,7 @@ author_profile: true
 
 **[Upstream Market Power and the Price of Production Flexibility](/files/vertical_relation_auto.pdf)** under review
 
-**[Exporting and Productivity Dynamics in the Chinese Footwear Industry](/files/Exporting and Productivity Dynamics in the Chinese Footwear Industry.pdf)** under review
+**[Exporting and Productivity Dynamics in the Chinese Footwear Industry](/files/Export.pdf)** under review
 
 **[Zombies and the Effect on Innovation: Evidence from Development Zones in China](/files/zombie.pdf)** (with Jinyue Tang and [Shougui Luo](https://www.acem.sjtu.edu.cn/en/faculty/luoshougui.html)) under review
 
