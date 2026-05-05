@@ -12,7 +12,7 @@ author_profile: true
 
 **[Exporting and Productivity Dynamics in the Chinese Footwear Industry](/files/Exporting and Productivity Dynamics in the Chinese Footwear Industry.pdf)** under review
 
-**[Zombies and the Effect on Innovation: Evidence from Development Zones in China](/files/Zombies in the Zone.pdf)** (with Jinyue Tang and [Shougui Luo](https://www.acem.sjtu.edu.cn/en/faculty/luoshougui.html)) under review
+**[Zombies and the Effect on Innovation: Evidence from Development Zones in China](/files/zombie.pdf)** (with Jinyue Tang and [Shougui Luo](https://www.acem.sjtu.edu.cn/en/faculty/luoshougui.html)) under review
 
 **[Social Network and Product Characteristics Design in the Chinese Kids Smartwatch Market](/files/Kids_Watch_Paper_WX.pdf)** (with [Qi Wu](https://www.qiwuecon.com/))
 
