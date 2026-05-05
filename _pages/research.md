@@ -8,19 +8,17 @@ author_profile: true
 
 ## Working Papers
 
-**Vertical Relations, Demand Risk, and Upstream Concentration: the Case of the US Automobile Industry**
+**[Upstream Market Power and the Price of Production Flexibility](/files/vertical_relation (5).pdf)** under review
 
-**[Exporting and Productivity Dynamics in the Chinese Footwear Industry](/files/Exporting and Productivity Dynamics in the Chinese Footwear Industry.pdf)**
+**[Exporting and Productivity Dynamics in the Chinese Footwear Industry](/files/Exporting and Productivity Dynamics in the Chinese Footwear Industry.pdf)** under review
 
-**[Zombies and the Effect on Innovation: Evidence from Development Zones in China](/files/Zombies in the Zone.pdf)** (with Jinyue Tang and [Shougui Luo](https://www.acem.sjtu.edu.cn/en/faculty/luoshougui.html))
+**[Zombies and the Effect on Innovation: Evidence from Development Zones in China](/files/Zombies in the Zone.pdf)** (with Jinyue Tang and [Shougui Luo](https://www.acem.sjtu.edu.cn/en/faculty/luoshougui.html)) under review
 
 **[Social Network and Product Characteristics Design in the Chinese Kids Smartwatch Market](/files/Kids_Watch_Paper_WX.pdf)** (with [Qi Wu](https://www.qiwuecon.com/))
 
 ## Works in Progress
 
 **Institutional Landlords in Industrial Real Estate Markets** (with [Shiyang Huang](https://www4.fbe.hku.hk/~huangsy/), [Yifei Mao](http://yifeimao.s3-website-us-west-1.amazonaws.com/research.html), and [Jiaheng Yu](https://www.jiaheng-yu-finance.com/))
-
-**Input Market, Partnership and Heterogeneous Innovations** (with Bin Zhao)
 
 **Innovation, Diffusion, and Selection: A Structural Evaluation of Place-Based Industrial Policy** (with [Ou Liu](https://www.ou-liu.com/) and Jinyue Tang)
 
